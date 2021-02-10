@@ -1,0 +1,4 @@
+1/ Hacer una pagina web en html 
+2/ Al cragar la pagina web se mostrar por consola 4 operaciones basicas que se pueden hacer con dos nuemros (-, +, *, /)
+3/ probar a hacerlo de dos maneras, una con la etiqueta script y dentro poniendo los resultados por consola y
+   luego la otra manera que es poniendo los calculos en un fichero JS externo y mostrando los resultados
